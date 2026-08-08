@@ -1,6 +1,6 @@
 #include <DHT11.h>
 
-DHT11 dht11(22);
+DHT11 dht11(2);
 
 void setup()
 {
